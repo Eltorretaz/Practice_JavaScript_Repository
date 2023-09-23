@@ -1,4 +1,4 @@
-/* const operacion = (tipo, numero1, numero2) => {
+const operacion = (tipo, numero1, numero2) => {
     if(tipo ==='suma'){
         return numero1 + numero2;
     }else if(tipo === 'resta'){
@@ -7,4 +7,4 @@
 };
 
 const miVariable = operacion('suma', 120, 11);
-console.log(miVariable); */
+console.log(miVariable);
